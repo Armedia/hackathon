@@ -130,7 +130,7 @@ public class phase2 {
     }
 
     private static void sendEmail(String mainContentToEmail) {
-
+        //Skeleton code retrieved from: https://www.mkyong.com/java/javamail-api-sending-email-via-gmail-smtp-example/
         try {
             // Step1
             System.out.println("\n 1st ===> setup Mail Server Properties..");
