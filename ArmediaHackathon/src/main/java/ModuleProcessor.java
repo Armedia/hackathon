@@ -2,6 +2,10 @@ package main.java;
 
 import java.io.*;
 
+/**
+ * Jeet Gajjar
+ */
+
 public class ModuleProcessor {
     private static final String file = "/Users/jg/IdeaProjects/ArmediaHackathon/src/main/files/records";
     private static final double a = 3.1;
